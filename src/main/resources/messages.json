@@ -1,0 +1,5 @@
+{
+  "spawnMessage": "<white>\n<#CFA73D>┌────────────────────────────────\n<#CFA73D>│\n<#CFA73D>│         <#CFA73D><bold>Странствующий банкир</bold>\n<#CFA73D>│ <white> Странствующий банкир редкости {rarity}\n<#CFA73D>│ <white>появился в мире на координатах <#CFA73D>{x} {y} {z}<white>.\n<#CFA73D>│ <white>   Он пропадёт через <#CFA73D>{minutes} <white>минут\n<#CFA73D>│\n<#CFA73D>└────────────────────────────────\n<white>",
+  "despawnMessage": "<white>\n<#CFA73D>┌────────────────────────────────\n<#CFA73D>│\n<#CFA73D>│         <#CFA73D><bold>Странствующий банкир</bold>\n<#CFA73D>│ <white>Странствующий банкир покинул наш мир\n<#CFA73D>│ <white>   Он снова придёт к нам когда-нибудь\n<#CFA73D>│\n<#CFA73D>└────────────────────────────────\n<white>",
+  "actionbarBalance": "<#CFA73D>+<white>{amount}$"
+}
