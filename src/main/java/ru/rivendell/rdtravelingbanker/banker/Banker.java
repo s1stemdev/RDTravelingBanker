@@ -15,7 +15,6 @@ import org.jetbrains.annotations.NotNull;
 import ru.rivendell.rdtravelingbanker.RDTravelingBanker;
 import ru.rivendell.rdtravelingbanker.config.ConfigRegistrar;
 import ru.rivendell.rdtravelingbanker.config.configurations.banker.BankerConfig;
-import ru.rivendell.rdtravelingbanker.utils.MessageSender;
 import ru.rivendell.rdtravelingbanker.utils.TextSerializer;
 
 public class Banker {

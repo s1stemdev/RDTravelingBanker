@@ -12,7 +12,6 @@ public class BankerConfig extends Configurable {
     private String title;
     private EntityType type;
     private String rarity;
-    private int chance;
     private int health;
     private int aliveTime;
     private double moneyPerClick;

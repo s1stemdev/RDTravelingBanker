@@ -1,3 +1,7 @@
 {
-
+  "worldName": "world",
+  "maxX": 1000,
+  "maxZ": 1000,
+  "minX": -1000,
+  "minZ": -1000
 }
